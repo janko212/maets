@@ -1,3 +1,3 @@
-采集时间：2022年02月04日01时05分00秒
+采集时间：2022年02月04日07时25分30秒
 
-n:Neon Abyss - Chrono Trap|dbu:https://steamdb.info/sub/679714/|u:https://store.steampowered.com/app/1851340/|t:KeepForever#
+n:The Sims™ 4|dbu:https://steamdb.info/sub/681446/|u:https://store.steampowered.com/app/1222670/|t:Weekend#
