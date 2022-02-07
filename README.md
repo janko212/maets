@@ -1,4 +1,2 @@
-采集时间：2022年02月07日07时29分44秒
+采集时间：2022年02月07日16时39分03秒
 
-n:FIREGROUND|dbu:https://steamdb.info/sub/675574/|u:https://store.steampowered.com/app/1026880/|t:Weekend#
-n:The Sims™ 4|dbu:https://steamdb.info/sub/681446/|u:https://store.steampowered.com/app/1222670/|t:Weekend#
